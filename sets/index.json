@@ -1,0 +1,31 @@
+{
+  "schools": [
+    {
+      "id": "sample",
+      "name": "ตัวอย่าง",
+      "level": "basic"
+    }
+  ],
+  "sets": [
+    {
+      "id": "sample-math-1",
+      "school": "sample",
+      "subject": "คณิตศาสตร์",
+      "title": "ชุดตัวอย่าง",
+      "file": "sample-math-1.json",
+      "questions": 8,
+      "minutes": 15,
+      "reviewed": true
+    },
+    {
+      "id": "sample-sci-1",
+      "school": "sample",
+      "subject": "วิทยาศาสตร์",
+      "title": "ชุดตัวอย่าง",
+      "file": "sample-sci-1.json",
+      "questions": 6,
+      "minutes": 10,
+      "reviewed": true
+    }
+  ]
+}
