@@ -5,6 +5,10 @@ Make your own timed exam-practice website in about 10 minutes. Free, static, no 
 
 👉 **[ลองใช้ / Live demo](https://coolboy450.github.io/exam-practice-template/)**
 
+[![ห้องฝึกข้อสอบ: หน้าแรกพร้อมชุดตัวอย่าง](docs/img/home.png)](https://coolboy450.github.io/exam-practice-template/)
+
+ตัวอย่างเว็บที่ทำจากเทมเพลตนี้ · Built with this: [ติวกับนูบ](https://coolboy450.github.io/tiwkapnoob/) · เครื่องมือคู่กัน · Companion tools: [exam-tools](https://coolboy450.github.io/exam-tools/) (คำนวณคะแนน + ตารางอ่านหนังสือ)
+
 [ภาษาไทย](#ภาษาไทย) · [English](#english)
 
 ---
